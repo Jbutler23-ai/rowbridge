@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "keys": ["part", "site"],
+  "columns": [
+    {"name": "part", "type": "string"},
+    {"name": "site", "type": "string", "trim": true, "casefold": true},
+    {"name": "quantity", "type": "integer"},
+    {"name": "weight", "type": "decimal"},
+    {"name": "checked", "type": "date", "nullable": true, "null_values": ["NULL"]}
+  ]
+}

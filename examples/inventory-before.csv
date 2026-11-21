@@ -1,0 +1,5 @@
+part,site,quantity,weight,checked
+P-100,north,010,1.500,2026-11-01
+P-200,south,5,0.100,NULL
+P-300,north,2,2.50,2026-11-02
+P-400,west,4,0,2026-11-03

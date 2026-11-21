@@ -1,0 +1,8 @@
+part,site,quantity,weight,checked
+P-100, NORTH ,+10,1.5,2026-11-01
+P-200,south,7,0.1,NULL
+P-400,west,4,-0.00,2026-11-03
+P-500,east,1,3.25,2026-11-04
+P-200,south,seven,0.1,NULL
+P-600,east,bad,1,NULL
+,east,1,1,NULL
